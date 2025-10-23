@@ -7,14 +7,6 @@ This project focuses on simplicity, offline functionality, and a smooth, visuall
 
 ---
 
-## 🎥 Demo
-
-🎬 **App Demo:**
-[▶️ Watch Demo](https://github.com/yourusername/currency-converter-demo.mp4)
-*(Upload your demo video to GitHub or link to YouTube)*
-
----
-
 ## 🌟 Features
 
 * Convert between **multiple global currencies** instantly
