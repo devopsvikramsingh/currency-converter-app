@@ -1,5 +1,7 @@
 # currency-converter-app
 
+** My project is in the master branch.
+
 The **Currency Converter Application** is a lightweight mobile app developed using **Flutter** and **Dart**.
 It enables users to quickly and accurately convert between multiple global currencies using **predefined exchange rates** stored within the app — no internet connection required.
 
